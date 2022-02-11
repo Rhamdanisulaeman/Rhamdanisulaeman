@@ -1,9 +1,9 @@
-<h2> Hi there, I'm <b>Rhamdani Sulaeman</b> </h2> 👋
+<h2> Hi there, I'm <b>Rhamdani Sulaeman</b> 👋</h2>
 <p>Mencoba hal baru dengan dunia pemograman.</p>
 <p>Manusia yang suka dengan hobi Berpetualang, Photography dan suka Belajar hal Baru Dunia IT.</p>
 
 <h3>Bahasa Pemograman</h3>
-<p><img src="" width="30"></p>
+<p><img src="https://cdn-icons-png.flaticon.com/512/528/528261.png" width="30"></p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
