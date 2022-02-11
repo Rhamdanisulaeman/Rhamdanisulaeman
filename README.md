@@ -1,10 +1,9 @@
-### Hi there, I'm Rhamdani Sulaeman 👋
+<h2> Hi there, I'm <b>Rhamdani Sulaeman</b> </h2> 👋
+<p>Mencoba hal baru dengan dunia pemograman.</p>
+<p>Manusia yang suka dengan hobi Berpetualang, Photography dan suka Belajar hal Baru Dunia IT.</p>
 
-<!--
-**Rhamdanisulaeman/Rhamdanisulaeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+<h3>Bahasa Pemograman</h3>
+<p><img src="https://giphy.com/embed/QssGEmpkyEOhBCb7e1" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/coding-webdesign-coder-QssGEmpkyEOhBCb7e1"" width="30"></p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
