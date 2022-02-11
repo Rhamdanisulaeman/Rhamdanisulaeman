@@ -1,5 +1,4 @@
 <h2> Hi there, I'm <b>Rhamdani Sulaeman</b> 👋</h2>
-<p>Mencoba hal baru dengan dunia pemograman.</p>
 <p>Manusia yang suka dengan hobi Berpetualang, Photography dan suka Belajar hal Baru Dunia IT.</p>
 
 <h3>Bahasa Pemograman</h3>
